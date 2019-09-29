@@ -7,7 +7,7 @@ ARG SRC_BCH="master"
 ARG DEBIAN_FRONTEND=noninteractive
 ARG APT_SERVER=""
 # defaults = those media_dir from minidlna.conf
-ARG MEDIA_DIRS="Movie Episode Music Pictures"
+ARG MEDIA_DIRS="Movie Episode Music Photo"
 
 ################
 

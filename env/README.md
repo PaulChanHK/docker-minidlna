@@ -1,4 +1,4 @@
-# docker-minidlna-env
+# docker-minidlna/env
 
 Ubuntu docker container for compiling minidlna.
 
